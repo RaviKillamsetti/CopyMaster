@@ -1,0 +1,7 @@
+Copy Master :
+
+Used to store frequently accessed commands and keywords which can be copied with a single click.
+
+
+Currently placing all the resources in application.view package as Path setting is becoming a problem for different
+operating systems.
